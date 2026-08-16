@@ -1,0 +1,9 @@
+name=Street Names on Minimap
+id=StreetNamesOnMini
+author=Homem Planta
+category=features
+description=See street names directly on your minimap.
+poster=poster.png
+modversion=1.0
+versionMax=42.20
+versionMin=42.0
