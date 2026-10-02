@@ -4,6 +4,5 @@ author=Homem Planta
 category=features
 description=See street names directly on your minimap.
 poster=poster.png
-modversion=1.1
-versionMax=42.20
+modversion=1.2
 versionMin=42.0
